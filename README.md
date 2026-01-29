@@ -13,11 +13,11 @@ The repo consists of 4 files.
 
 ## Our Team
 We consists of five members who are part of $GCEK$ collage studying in $S2 CSE$ .<br>
-$${\color{#e78284}Adihtya}$$ $${\color{#e78284}Sankar -}$$ https://github.com/Adithya-D2 <br>
-$${\color{#7287fd}Amaljose}$$ $${\color{#7287fd}k}$$ $${\color{#7287fd}Augustine -}$$https://github.com/k-a-amaljose <br>
-$${\color{#a6d189}Aleema}$$ $${\color{#a6d189}Majnas -}$$https://github.com/Busy-Coding-n-Debugging<br>
-$${\color{#e5c890}Akhil}$$ $${\color{#e5c890}Chandran -}$$ https://github.com/ConfidentHero <br>
-$${\color{#ca9ee6}Adwaid}$$ $${\color{#ca9ee6}EV -}$$ https://github.com/AD-EV<br>
+😽$${\color{#e78284}Adihtya}$$ $${\color{#e78284}Sankar -}$$ https://github.com/Adithya-D2 <br>
+🤖$${\color{#7287fd}Amaljose}$$ $${\color{#7287fd}k}$$ $${\color{#7287fd}Augustine -}$$https://github.com/k-a-amaljose <br>
+🧠$${\color{#a6d189}Aleema}$$ $${\color{#a6d189}Majnas -}$$https://github.com/Busy-Coding-n-Debugging<br>
+🤓$${\color{#e5c890}Akhil}$$ $${\color{#e5c890}Chandran -}$$ https://github.com/ConfidentHero <br>
+👻$${\color{#ca9ee6}Adwaid}$$ $${\color{#ca9ee6}EV -}$$ https://github.com/AD-EV<br>
 
 ##  Goal
 Our goal through this project is to improve ourselves by gain much needed experience work together and to have $${\color{#a6d189}F}$$ $${\color{#e78284}u}$$ $${\color{#e5c890}n}$$ $${\color{#8caaee}!}$$   
