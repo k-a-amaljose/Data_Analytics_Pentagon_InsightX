@@ -4,8 +4,8 @@ The project is a report **recommending** what movies our studio should release o
 
 ## Working
 ### Task 2
-**Goal**: <br> 
-**Methodelogy** :
+**Goal**: A bubble chart shows the result, with rating on the x-axis, revenue on the y-axis, and bubble size showing how many movies are in each genre. This makes it easy to compare genres by quality and profit.<br> 
+**Methodelogy** :This task uses the IMDb Top 1000 Movies dataset to compare movie genres using ratings and box-office revenue. The data is cleaned by splitting multiple genres, removing missing values, and converting revenue into numbers. Genres are grouped to find average rating, average revenue (in $100M), and movie count, keeping only genres with at least ten movies.
 ### Task 3
 **Goal** : Task 3 analyses movies released over the time span of 3 decades  (1990 - 2019) to identify the genre most likely to achieve high box office revenue.<br>
 **Methodology** : The provided Dataset is first cleaned by converting gross revenue into numeric datatype. The movies released after 1990 are then selected for the analysis. Since many movies  belong to multiple genres, the dataset is exploded to separate each movie-genre pair into separate rows. The average gross revenue for each genre for each year is calculated and the top performing genre for each year is identified. 
