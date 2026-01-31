@@ -1,6 +1,10 @@
 # Data-analyst-workshop
 ## Data Analytics Project
-The project is a report providing  **Data-Driven recommendation** what a movies studio should release over the next decade based on the dataset *top 1000 imdb movies*. The graphs for this project were coded in using python language.
+This project analyzes the Top 1000 IMDb movies dataset to identify trends in genre popularity, box office performance, and audience preferences. The analysis examines which genres and directors are most strongly associated with a film’s success.
+
+Based on these insights, the report provides recommendations on the types of movies the studio should prioritize producing and releasing over the next decade.
+
+The analysis was carried out using **Python**, with libraries including **Pandas** for data manipulation and **Matplotlib** for result visualization.
 ## Working
 ### Task 1
 **Goal** : Task 1 analyses the IMDb Top 1000 movies dataset to identify the top 10 directors who achieved the highest total box office revenue, considering only directors with a minimum of three movies.<br>
