@@ -1,7 +1,6 @@
 # Data-analyst-workshop
 ## Data Analytics Project
-The project is a report **recommending** what movies our studio should release over the next decade based on the dataset *top 1000 imdb movies*.
-
+The project is a report providing  **Data-Driven recommendation** what a movies studio should release over the next decade based on the dataset *top 1000 imdb movies*. The graphs for this project were coded in using python language.
 ## Working
 ### Task 1
 **Goal** : Task 1 analyses the IMDb Top 1000 movies dataset to identify the top 10 directors who achieved the highest total box office revenue, considering only directors with a minimum of three movies.<br>
@@ -16,7 +15,7 @@ The results are visualised using a bar graph, with distinct colors and a dark-th
 The results are visualised using a bar graph with different colors assigned to different genre for clarity and readability.
 
 ## Files
-The repo consists of 4 files.
+The repo consists of 5 files.
 - **Data_Analysis_Report.ipynb** - The documented report after analysing the data 
 - **Data_Analysis_Task_1.ipynb** - The code file used to $clean$ the data provided and createa bar graph of top 10 dirtectors by Total Gross Revenue
 - **Data_Analysis_Task_2.ipynb** - Code used to make bubble Graph of different genre of movies and their rating
