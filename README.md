@@ -17,7 +17,7 @@ The results are visualised using a bar graph with different colors assigned to d
 
 ## Files
 The repo consists of 4 files.
-- *insert file name here* - The documented report after analysing the data 
+- **Data_Analysis_Report.ipynb** - The documented report after analysing the data 
 - **Data_Analysis_Task_1.ipynb** - The code file used to $clean$ the data provided and createa bar graph of top 10 dirtectors by Total Gross Revenue
 - **Data_Analysis_Task_2.ipynb** - Code used to make bubble Graph of different genre of movies and their rating
 - **Year_wise_top_genre_Analysis.ipyjnb** - A bar graph of the highest grossing genre every year and the code used to make it
