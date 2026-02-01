@@ -24,13 +24,13 @@ The results are visualised using a bar graph with different colors assigned to d
 ## Files
 The repo consists of 5 files.
 - **Data_Analysis_Report.ipynb** - The documented report after analysing the data 
-- **Data_Analysis_Task_1.ipynb** - The code file used to $clean$ the data provided and createa bar graph of top 10 dirtectors by Total Gross Revenue
+- **Data_Analysis_Task_1.ipynb** - The code file used to $clean$ the data provided and create bar graph of top 10 dirtectors by Total Gross Revenue
 - **Data_Analysis_Task_2.ipynb** - Code used to make bubble Graph of different genre of movies and their rating
-- **Year_wise_top_genre_Analysis.ipyjnb** - A bar graph of the highest grossing genre every year and the code used to make it
+- **Year_wise_top_genre_Analysis.ipyjnb** - A bar graph of the highest grossing genre for each year and the code used to make it
 - **README.md** - The one you are reading right now!
 
 ## Our Team
-We're five members who are part of $GCEK$ collage studying in $S2 CSE$ .<br>
+We're five members who are part of $GCEK$ studying in $S2 CSE$ .<br>
 😽 $${\color{#e78284}Adithya}$$ $${\color{#e78284}Shankar -}$$ https://github.com/Adithya-D2 <br>
 🤖 $${\color{#7287fd}Amaljose}$$ $${\color{#7287fd}K}$$ $${\color{#7287fd}Augustin -}$$https://github.com/k-a-amaljose <br>
 🧠 $${\color{#a6d189}Aleema}$$ $${\color{#a6d189}Majinas -}$$https://github.com/Busy-Coding-n-Debugging<br>
@@ -38,4 +38,4 @@ We're five members who are part of $GCEK$ collage studying in $S2 CSE$ .<br>
 👻 $${\color{#ca9ee6}Adwaid}$$ $${\color{#ca9ee6}EV -}$$ https://github.com/AD-EV<br>
 
 ##  Goal
-Our goal through this project is to improve ourselves by gaining experience, work together, and by having $${\color{#a6d189}F}$$ $${\color{#e78284}u}$$ $${\color{#e5c890}n}$$ $${\color{#8caaee}!}$$   
+Our goal through this project is to improve our skills by gaining practical experience through collaboration while having $${\color{#a6d189}F}$$ $${\color{#e78284}u}$$ $${\color{#e5c890}n}$$ $${\color{#8caaee}!}$$   
