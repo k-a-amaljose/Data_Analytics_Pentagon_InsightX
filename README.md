@@ -26,7 +26,7 @@ The repo consists of 5 files.
 - **Data_Analysis_Report.ipynb** - The documented report after analysing the data 
 - **Data_Analysis_Task_1.ipynb** - The code file used to $clean$ the data provided and create bar graph of top 10 dirtectors by Total Gross Revenue
 - **Data_Analysis_Task_2.ipynb** - Code used to make bubble Graph of different genre of movies and their rating
-- **Year_wise_top_genre_Analysis.ipyjnb** - A bar graph of the highest grossing genre for each year and the code used to make it
+- **Year_Wise_Top_Genre_Analysis.ipynb** - A bar graph of the highest grossing genre for each year and the code used to make it
 - **README.md** - The one you are reading right now!
 
 ## Our Team
