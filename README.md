@@ -1,4 +1,4 @@
-# Data-analyst-workshop
+# Data_Analytics_Pentagon_Insightx
 ## Data Analytics Project
 This project analyzes the Top 1000 IMDb movies dataset to identify trends in genre popularity, box office performance, and audience preferences. The analysis examines which genres and directors are most strongly associated with a film’s success.
 
