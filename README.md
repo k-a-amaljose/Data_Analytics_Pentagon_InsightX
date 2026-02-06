@@ -1,7 +1,7 @@
 # Data_Analytics_Pentagon_InsightX
 
 <p align="center">
-  <img src="Pentagon_Logo.gif"
+  <img src="assets/Pentagon_Logo.gif"
     width="700">
 </p>
 
