@@ -44,7 +44,7 @@ The results are visualised using a bar graph with different colors assigned to d
 We're five members who are part of $GCEK$ studying in $S2 CSE$ .<br>
 😽 $${\color{#e78284}Adithya}$$ $${\color{#e78284}Shankar -}$$ https://github.com/Adithya-D2 <br>
 🤖 $${\color{#7287fd}Amaljose}$$ $${\color{#7287fd}K}$$ $${\color{#7287fd}Augustin -}$$https://github.com/k-a-amaljose <br>
-🧠 $${\color{#a6d189}Aleema}$$ $${\color{#a6d189}Majinas -}$$https://github.com/Busy-Coding-n-Debugging<br>
+🧠 $${\color{#a6d189}Aleema}$$ $${\color{#a6d189}Majinas -}$$https://github.com/majinas-aleema<br>
 💀 $${\color{#e5c890}Akhil}$$ $${\color{#e5c890}Chandran}$$ $${\color{#e5c890}AV - }$$ https://github.com/ConfidentHero <br>
 👻 $${\color{#ca9ee6}Adwaid}$$ $${\color{#ca9ee6}EV -}$$ https://github.com/AD-EV<br>
 
